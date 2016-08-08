@@ -2,7 +2,7 @@
 
   "name": "Clean Feed",
   "description": "Removes all shared content from Facebook.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "content_scripts": [
     {
       "matches": ["http://www.facebook.com/*", "https://www.facebook.com/*"],
